@@ -1,0 +1,5 @@
+x=int(input("Enter a number:"))
+y=str(x)
+z=int(y[::-1])
+print(type(z))
+print(z)
